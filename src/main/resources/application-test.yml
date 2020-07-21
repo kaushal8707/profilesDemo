@@ -1,0 +1,9 @@
+app:
+    server:
+        detail: this is jboss for test
+        name: jboss
+spring:
+    datasource:
+        password: arvsd
+        url: jdbc:mysql://localhost:3306/rock
+        username: mysql

@@ -1,0 +1,9 @@
+app:
+    server:
+        detail: this is tomcat for dev
+        name: tomcat
+spring:
+    datasource:
+        password: 12345
+        url: jdbc:hsql:hsql://localhost/enrolments
+        username: dev
